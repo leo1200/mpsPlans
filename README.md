@@ -1,0 +1,10 @@
+# mpsPlans
+Bei mpsPlans handelt es sich um eine App, welche Vertretungs-, Klausuren- und Ferienpläne für Schüler der Max-Planck-Schule Kiel anzeigt.
+Das ursprüngliche über den GitFlow in Zusammenarbeit mit Felix Teupke erstellte Projekt ist aus Datenschutzgründen (beziehungsweise zur eigenen Absicherung) nicht öffentlich verfügbar (auch fehlt für die Veröffentlichung die Zustimmung des Ministeriums).
+# Screenshots
+![alt text](https://iwauwq.db.files.1drv.com/y4m5ozGwuzwZ2ZBpJePZ3wjDg30uosLX78pdkqmhdE6IVP18HQ0BjlcPv96gz875WIiJi8jmwZ9e5nyRzjQVYk6vAfpIF9MjYEa2C4wRJs0iSkCGPBTQ3_jsYzaaDhJU4skhAtplwAe-6MV9khA8jIXVbhGIHIqlw_THAKgWdhQVoyPREd52NXPng4Nf_cQmw9zSnn-vGBlATTb1I6BPO8V7w)
+![alt text](https://kwanrq.db.files.1drv.com/y4msW9RKaeBN8hdqM5eARjWrBhL0xj5tqyXeJRkBdbXHeIVWxkOs_6oavJnIufWqqnlQ7gQlVehOfta1CEKHAeta99m2PgLD_CdpAPwLfsC-uV2GK4Smjl8EUJcYz-tDqAfmsIlAuZB4IALubRYoBkYjq_Y2zpwLhELhpKF5su9-JxUX2BKZpLLM7sCCm6uoW5dy0WvucYkJQZCMudnDFW5gg)
+![alt text](https://jaauwq.db.files.1drv.com/y4mcza-5mzr_M-4kFUOAQeseQUYo5QO0mNwIbMi79G72MP7GfyrELUgdIT8F9AmiCp8Dffd4wxiSZ165XNHIFvosuG8R3Ia6elJDbSIaUiaazrRYXO2cMf5t6s5voLv1ZhX70LHtzMzETs0teEuhUyHWj5dO8_ZuUOooABnL8hp5UrpzJvgI9vXqdpBuQ8KMBz8WJE-fjbkhBjhVzukDASBUw)
+![alt text](https://laanrq.db.files.1drv.com/y4mwmWnmHy6Pby7Lhmcn3R8sM_IeBIoWG5aY-2IX23bZDiuSuJglTG3DuMXByCDW_q1KijryHN3deGlJPwX5kskmS8omGNXs2FlKRDhCA90wV8ZtXU6OSU2hcZUEob7oSkhF-fn4ml_kDX4Ijv32SeyInsqt5puPZS8kS-iytTzNOzVzsWfWS3YMudalQWuyAsaWXnj2T04qTvn5LNJOC1MIQ)
+# Icon
+![alt text](https://lqanrq.db.files.1drv.com/y4mTcA3camKjIFUpNikom7g3cxxjNKBcd3To6gLEMFz0wOAorvwbzC_M6GIKqvoy_djxnqS1FDMLT3fJCjZYMXqu0RVdICOm3untEGBTM7yDskbxvrGz-ic616zaEiZ7FG4oZ7zRmbjCkB17oJeO3KX62oJmMKoYO12TA7AICdR7oo1WZYbGM78UO5lD7S8RFVQuxoOTT4jeKC8gB_oEl3bxA)
